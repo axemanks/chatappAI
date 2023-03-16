@@ -1,0 +1,8 @@
+// this makes it so if we have nested folders it will replace the @ with the actual folder
+{
+    "compilerOptions": {
+        "paths": {
+            "@/*": ["./src/*"]
+        }
+    }
+}
