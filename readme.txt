@@ -34,5 +34,4 @@ Followed youtube video: https://www.youtube.com/watch?v=ffEDkqfIzxM
 
 1:40
 BOT user AI_bot_Chip
-Secret: Bear4554
 Chat names need to start with AIChat_ for the bot to work
